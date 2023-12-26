@@ -38,7 +38,8 @@ version: v0.1.0
 | asciinema        |
 | instagram        |
 | stackexchange    |
-| cve              |           | discover/introducer/fixer |
+| [cve]            |
+| project | [link] | discover/introducer/fixer |
 | acknowledgements | link      |
 | [presents]       | [link]    |
 | slideshare       |
