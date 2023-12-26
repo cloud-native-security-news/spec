@@ -1,7 +1,7 @@
 ---
 
 tags: Cloud Native Security News,Researcher Introduction
-spec version: v0.1.12
+spec version: v0.1.13
 version: v0.1.0
 
 ---
