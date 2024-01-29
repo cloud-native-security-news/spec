@@ -1,7 +1,7 @@
 ---
 
 tags: Cloud Native Security News,Researcher Introduction
-spec version: v0.1.16
+spec version: v0.1.17
 version: v0.1.0
 
 ---
@@ -21,6 +21,7 @@ version: v0.1.0
 | github           |
 | gitlab           |
 | bitbucket        |
+| [repo]           |
 | email            |
 | website          | [title]() |
 | blog             |
