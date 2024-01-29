@@ -1,7 +1,7 @@
 ---
 
 tags: Cloud Native Security News,Researcher Introduction
-spec version: v0.1.17
+spec version: v0.2.0
 version: v0.1.0
 
 ---
@@ -13,41 +13,68 @@ version: v0.1.0
 `![](photo)`
 
 
-| Item             | Link      | Note |
+| Basic Info       | Link      | Note |
 |------------------|-----------|------|
 | name             |
+| id               |
 | organization     |
-| [git]            | [link]    |
-| github           |
-| gitlab           |
-| bitbucket        |
-| [repo]           |
 | email            |
 | website          | [title]() |
 | blog             |
-| dockerhub        |           |
-| [social media]   | [link]    |
+
+| git              | link      | Note |
+|------------------|-----------|------|
+| github           |
+| gitlab           |
+| bitbucket        |
+
+| repo             | link      | Note |
+|------------------|-----------|------|
+|                  |
+
+| social media     | link      | Note |
+|------------------|-----------|------|
 | twitter          |
 | mastodon         |
 | telegram         |
 | reddit           |
 | facebook         |
-| hackmd           |
 | youtube          |
 | linkedin         |
-| medium           |
-| asciinema        |
 | instagram        |
+
+| IT accounts      | link      | Note |
+|------------------|-----------|------|
+| dockerhub        |           |
+| medium           |
+| hackmd           |
+| asciinema        |
 | stackexchange    |
 | slideshare       |
-| [cve]            |
-| project | [link] | discover/introducer/fixer |
+
+| CVE              | link      | Note |
+|------------------|-----------|------|
+| project          | [link]    | discover/introducer/fixer |
+
 | acknowledgements | link      |
-| [presents]       | [link]    |
+|------------------|-----------|------|
+
+| presents         | link      | Note |
+|------------------|-----------|------|
+|                  |
+
+| activity         | link      | Note |
+|------------------|-----------|------|
 | ctf              |
+
+| publications     | link      | Note |
+|------------------|-----------|------|
 | paper            |
 | book             |
 | article          |
-| other            |
+
+| other            | link      | Note |
+|------------------|-----------|------|
+|                  |
 
 > This document use [Cloud Native Security News: Researcher Introduction](https://github.com/cloud-native-security-news/spec/blob/main/researcher-introduction.md) as template.
