@@ -56,8 +56,9 @@ version: v0.1.0
 |------------------|-----------|------|
 | project          | [link]    | discover/introducer/fixer |
 
-| acknowledgements | link      |
+| acknowledgements | link      | Note |
 |------------------|-----------|------|
+|                  |
 
 | presents         | link      | Note |
 |------------------|-----------|------|
