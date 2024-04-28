@@ -1,6 +1,11 @@
 ---
+
 tags: Cloud Native Security News,Project Introduction
-spec version: v0.2.4
+spec_version: v0.2.5
+version: v0.2.5
+changelog:
+  - v0.2.5: update metadata format
+
 ---
 
 ## 1. Project/Tool Introduction: Name
