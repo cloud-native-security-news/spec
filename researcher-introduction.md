@@ -1,8 +1,10 @@
 ---
 
 tags: Cloud Native Security News,Researcher Introduction
-spec version: v0.2.1
+spec version: v0.2.2
 version: v0.1.0
+changelog:
+  - v0.2.2: add exploit-db account
 
 ---
 
@@ -45,6 +47,7 @@ version: v0.1.0
 
 | IT accounts      | link      | Note |
 |------------------|-----------|------|
+| exploit-db       | [](https://www.exploit-db.com/?author=) |
 | dockerhub        |           |
 | medium           |
 | hackmd           |
