@@ -1,7 +1,10 @@
 ---
+
 tags: Cloud Native Security News,Security Conference Talk Learning
-spec version: v0.1.0
+author: xxx
+spec: v0.1.1
 version: v0.1.0
+
 ---
 
 ## 1. Security Conference Talk Learning: [Conference Name]: [Talk Name] - [Person Name]
